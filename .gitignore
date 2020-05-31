@@ -1,0 +1,5 @@
+chapter*/**/*
+!.gitignore
+!chapter*/*.go
+!chapter**/*.txt
+!chapter**/*.md
